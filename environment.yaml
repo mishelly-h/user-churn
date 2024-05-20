@@ -1,0 +1,14 @@
+name: user-churn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - python
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - xgboost
+  - pytorch
+  - torchsummary
